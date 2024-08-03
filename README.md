@@ -1,6 +1,6 @@
 # HRRPGraphNet
 
-HRRPGraphNet is a deep learning model for processing HRRP data using graph neural networks.
+HRRPGraphNet is a deep learning model for processing HRRP data using graph neural networks💥.
 
 ## Usage
 
