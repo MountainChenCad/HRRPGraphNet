@@ -1,5 +1,5 @@
 # HRRPGraphNet
-
+We got accepted to IET Electronics Letters!
 HRRPGraphNet is a deep learning model for processing HRRP data using graph neural networks💥.
 
 ## Usage
@@ -32,11 +32,17 @@ This project is licensed under the MIT License.
 please kindly cite this paper if our HRRPGraphNet can give you any inspiration for your research, thanks a lot.
 
 ```
-@inproceedings{Chen2024HRRPGraphNetAG,
-  title={HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition},
-  author={Lingfeng Chen and Panhe Hu and Zhiliang Pan and Xiao Sun and Zehao Wang},
-  year={2024},
-  url={https://api.semanticscholar.org/CorpusID:271097314}
+@article{https://doi.org/10.1049/ell2.70088,
+author = {Chen, Lingfeng and Sun, Xiao and Pan, Zhiliang and Liu, Qi and Wang, Zehao and Su, Xiaolong and Liu, Zhen and Hu, Panhe},
+title = {HRRPGraphNet: Make HRRPs to be graphs for efficient target recognition},
+journal = {Electronics Letters},
+volume = {60},
+number = {22},
+pages = {e70088},
+keywords = {graphs, radar signal processing, radar target recognition},
+doi = {https://doi.org/10.1049/ell2.70088},
+url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ell2.70088},
+year = {2024}
 }
 ```
 
