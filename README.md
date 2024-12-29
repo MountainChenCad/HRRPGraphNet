@@ -1,5 +1,6 @@
 # HRRPGraphNet
-We got accepted to IET Electronics Letters!
+We got accepted to IET Electronics Letters!💥💥💥
+
 HRRPGraphNet is a deep learning model for processing HRRP data using graph neural networks💥.
 
 ## Usage
