@@ -9,7 +9,7 @@ HRRPGraphNet revolutionizes HRRP data processing through graph neural networks, 
 
 > HRRP (High-Resolution Range Profile) target recognition faces challenges in handling structural information and intra-class variance. Our work transforms HRRPs into graph structures to better capture local contextual relationships between range cells. The proposed architecture combines multi-scale convolutional layers with graph convolutional networks, enabling effective aggregation of neighborhood features while maintaining structural integrity. Experimental results demonstrate superior recognition accuracy compared to conventional CNN-based methods. The graph-based paradigm opens new possibilities for radar signal processing through geometric deep learning.
 ><p align="center">
-  > <img src="./architecture.jpg" width="80%">
+  > <img src="./architecture.jpg" width="40%">
 </p>
 
 ---
