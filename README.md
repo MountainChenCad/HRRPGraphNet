@@ -42,17 +42,6 @@ data/
     └── classB/
 ```
 
-## Training & Evaluation :chart_with_upwards_trend:
-```python
-python main.py --mode train --model HRRPGraphNet --dataset your_data
-```
-Key arguments:
-- `--batch_size`: 64 (default)
-- `--learning_rate`: 1e-3
-- `--graph_layers`: 3 GCN layers
-
----
-
 ## Citation :blue_book:
 If HRRPGraphNet inspires your research, please cite:
 ```bibtex
